@@ -1,5 +1,4 @@
 # DWM
 
-## configured for:
+**Configured for:**
 - rofi
-- firefox
