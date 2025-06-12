@@ -1,4 +1,7 @@
 # DWM
 
-**Configured for:**
-- rofi
+**Defaults:**
+| Shortcut   | Application |
+|:----------:|:-----------:|
+| super + \  | Firefox     |
+| super + p  | rofi        |
